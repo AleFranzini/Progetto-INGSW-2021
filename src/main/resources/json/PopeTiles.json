@@ -1,0 +1,23 @@
+[
+  {
+    "victoryPoints" : 2,
+    "papalFavor" : false,
+    "activable" : true,
+    "minRange" : 5,
+    "maxRange" : 8
+  },
+  {
+    "victoryPoints" : 3,
+    "papalFavor" : false,
+    "activable" : true,
+    "minRange" : 12,
+    "maxRange" : 16
+  },
+  {
+    "victoryPoints" : 4,
+    "papalFavor" : false,
+    "activable" : true,
+    "minRange" : 19,
+    "maxRange" : 24
+  }
+]

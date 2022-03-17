@@ -1,0 +1,1552 @@
+[
+  [
+    [
+      {
+        "id": 1,
+        "cost": [
+          {
+            "resourceType": "SHIELD",
+            "quantity": 2
+          }
+        ],
+        "color": "GREEN",
+        "level": "LEVEL_1",
+        "resourceIn": [
+          {
+            "resourceType": "COIN",
+            "quantity": 1
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "FAITH",
+            "quantity": 1
+          }
+        ],
+        "victoryPoints": 1,
+        "visibilityOnDeck": true
+      },
+      {
+        "id": 2,
+        "cost": [
+          {
+            "resourceType": "SHIELD",
+            "quantity": 1
+          },
+          {
+            "resourceType": "STONE",
+            "quantity": 1
+          },
+          {
+            "resourceType": "SERVANT",
+            "quantity": 1
+          }
+        ],
+        "color": "GREEN",
+        "level": "LEVEL_1",
+        "resourceIn": [
+          {
+            "resourceType": "STONE",
+            "quantity": 1
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "SERVANT",
+            "quantity": 1
+          }
+        ],
+        "victoryPoints": 2,
+        "visibilityOnDeck": true
+      },
+      {
+        "id": 3,
+        "cost": [
+          {
+            "resourceType": "SHIELD",
+            "quantity": 3
+          }
+        ],
+        "color": "GREEN",
+        "level": "LEVEL_1",
+        "resourceIn": [
+          {
+            "resourceType": "SERVANT",
+            "quantity": 2
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "COIN",
+            "quantity": 1
+          },
+          {
+            "resourceType": "SHIELD",
+            "quantity": 1
+          },
+          {
+            "resourceType": "STONE",
+            "quantity": 1
+          }
+        ],
+        "victoryPoints": 3,
+        "visibilityOnDeck": true
+      },
+      {
+        "id": 4,
+        "cost": [
+          {
+            "resourceType": "SHIELD",
+            "quantity": 2
+          },
+          {
+            "resourceType": "COIN",
+            "quantity": 2
+          }
+        ],
+        "color": "GREEN",
+        "level": "LEVEL_1",
+        "resourceIn": [
+          {
+            "resourceType": "STONE",
+            "quantity": 1
+          },
+          {
+            "resourceType": "SERVANT",
+            "quantity": 1
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "COIN",
+            "quantity": 2
+          },
+          {
+            "resourceType": "FAITH",
+            "quantity": 1
+          }
+        ],
+        "victoryPoints": 4,
+        "visibilityOnDeck": true
+      }
+    ],
+    [
+      {
+        "id": 5,
+        "cost": [
+          {
+            "resourceType": "COIN",
+            "quantity": 2
+          }
+        ],
+        "color": "BLUE",
+        "level": "LEVEL_1",
+        "resourceIn": [
+          {
+            "resourceType": "SHIELD",
+            "quantity": 1
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "FAITH",
+            "quantity": 1
+          }
+        ],
+        "victoryPoints": 1,
+        "visibilityOnDeck": true
+      },
+      {
+        "id": 6,
+        "cost": [
+          {
+            "resourceType": "COIN",
+            "quantity": 1
+          },
+          {
+            "resourceType": "STONE",
+            "quantity": 1
+          },
+          {
+            "resourceType": "SERVANT",
+            "quantity": 1
+          }
+        ],
+        "color": "BLUE",
+        "level": "LEVEL_1",
+        "resourceIn": [
+          {
+            "resourceType": "SERVANT",
+            "quantity": 1
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "STONE",
+            "quantity": 1
+          }
+        ],
+        "victoryPoints": 2,
+        "visibilityOnDeck": true
+      },
+      {
+        "id": 7,
+        "cost": [
+          {
+            "resourceType": "COIN",
+            "quantity": 3
+          }
+        ],
+        "color": "BLUE",
+        "level": "LEVEL_1",
+        "resourceIn": [
+          {
+            "resourceType": "STONE",
+            "quantity": 2
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "COIN",
+            "quantity": 1
+          },
+          {
+            "resourceType": "SERVANT",
+            "quantity": 1
+          },
+          {
+            "resourceType": "SHIELD",
+            "quantity": 1
+          }
+        ],
+        "victoryPoints": 3,
+        "visibilityOnDeck": true
+      },
+      {
+        "id": 8,
+        "cost": [
+          {
+            "resourceType": "COIN",
+            "quantity": 2
+          },
+          {
+            "resourceType": "SERVANT",
+            "quantity": 2
+          }
+        ],
+        "color": "BLUE",
+        "level": "LEVEL_1",
+        "resourceIn": [
+          {
+            "resourceType": "SHIELD",
+            "quantity": 1
+          },
+          {
+            "resourceType": "STONE",
+            "quantity": 1
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "SERVANT",
+            "quantity": 2
+          },
+          {
+            "resourceType": "FAITH",
+            "quantity": 1
+          }
+        ],
+        "victoryPoints": 4,
+        "visibilityOnDeck": true
+      }
+    ],
+    [
+      {
+        "id": 9,
+        "cost": [
+          {
+            "resourceType": "STONE",
+            "quantity": 2
+          }
+        ],
+        "color": "YELLOW",
+        "level": "LEVEL_1",
+        "resourceIn": [
+          {
+            "resourceType": "SERVANT",
+            "quantity": 1
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "FAITH",
+            "quantity": 1
+          }
+        ],
+        "victoryPoints": 1,
+        "visibilityOnDeck": true
+      },
+      {
+        "id": 10,
+        "cost": [
+          {
+            "resourceType": "SHIELD",
+            "quantity": 1
+          },
+          {
+            "resourceType": "COIN",
+            "quantity": 1
+          },
+          {
+            "resourceType": "STONE",
+            "quantity": 1
+          }
+        ],
+        "color": "YELLOW",
+        "level": "LEVEL_1",
+        "resourceIn": [
+          {
+            "resourceType": "SHIELD",
+            "quantity": 1
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "COIN",
+            "quantity": 1
+          }
+        ],
+        "victoryPoints": 2,
+        "visibilityOnDeck": true
+      },
+      {
+        "id": 11,
+        "cost": [
+          {
+            "resourceType": "STONE",
+            "quantity": 3
+          }
+        ],
+        "color": "YELLOW",
+        "level": "LEVEL_1",
+        "resourceIn": [
+          {
+            "resourceType": "SHIELD",
+            "quantity": 2
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "COIN",
+            "quantity": 1
+          },
+          {
+            "resourceType": "SERVANT",
+            "quantity": 1
+          },
+          {
+            "resourceType": "STONE",
+            "quantity": 1
+          }
+        ],
+        "victoryPoints": 3,
+        "visibilityOnDeck": true
+      },
+      {
+        "id": 12,
+        "cost": [
+          {
+            "resourceType": "STONE",
+            "quantity": 2
+          },
+          {
+            "resourceType": "SHIELD",
+            "quantity": 2
+          }
+        ],
+        "color": "YELLOW",
+        "level": "LEVEL_1",
+        "resourceIn": [
+          {
+            "resourceType": "COIN",
+            "quantity": 1
+          },
+          {
+            "resourceType": "SERVANT",
+            "quantity": 1
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "SHIELD",
+            "quantity": 2
+          },
+          {
+            "resourceType": "FAITH",
+            "quantity": 1
+          }
+        ],
+        "victoryPoints": 4,
+        "visibilityOnDeck": true
+      }
+    ],
+    [
+      {
+        "id": 13,
+        "cost": [
+          {
+            "resourceType": "SERVANT",
+            "quantity": 2
+          }
+        ],
+        "color": "PURPLE",
+        "level": "LEVEL_1",
+        "resourceIn": [
+          {
+            "resourceType": "STONE",
+            "quantity": 1
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "FAITH",
+            "quantity": 1
+          }
+        ],
+        "victoryPoints": 1,
+        "visibilityOnDeck": true
+      },
+      {
+        "id": 14,
+        "cost": [
+          {
+            "resourceType": "SHIELD",
+            "quantity": 1
+          },
+          {
+            "resourceType": "COIN",
+            "quantity": 1
+          },
+          {
+            "resourceType": "SERVANT",
+            "quantity": 1
+          }
+        ],
+        "color": "PURPLE",
+        "level": "LEVEL_1",
+        "resourceIn": [
+          {
+            "resourceType": "COIN",
+            "quantity": 1
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "SHIELD",
+            "quantity": 1
+          }
+        ],
+        "victoryPoints": 2,
+        "visibilityOnDeck": true
+      },
+      {
+        "id": 15,
+        "cost": [
+          {
+            "resourceType": "SERVANT",
+            "quantity": 3
+          }
+        ],
+        "color": "PURPLE",
+        "level": "LEVEL_1",
+        "resourceIn": [
+          {
+            "resourceType": "COIN",
+            "quantity": 2
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "SERVANT",
+            "quantity": 1
+          },
+          {
+            "resourceType": "SHIELD",
+            "quantity": 1
+          },
+          {
+            "resourceType": "STONE",
+            "quantity": 1
+          }
+        ],
+        "victoryPoints": 3,
+        "visibilityOnDeck": true
+      },
+      {
+        "id": 16,
+        "cost": [
+          {
+            "resourceType": "SERVANT",
+            "quantity": 2
+          },
+          {
+            "resourceType": "STONE",
+            "quantity": 2
+          }
+        ],
+        "color": "PURPLE",
+        "level": "LEVEL_1",
+        "resourceIn": [
+          {
+            "resourceType": "COIN",
+            "quantity": 1
+          },
+          {
+            "resourceType": "SHIELD",
+            "quantity": 1
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "STONE",
+            "quantity": 2
+          },
+          {
+            "resourceType": "FAITH",
+            "quantity": 1
+          }
+        ],
+        "victoryPoints": 4,
+        "visibilityOnDeck": true
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "id": 17,
+        "cost": [
+          {
+            "resourceType": "SHIELD",
+            "quantity": 4
+          }
+        ],
+        "color": "GREEN",
+        "level": "LEVEL_2",
+        "resourceIn": [
+          {
+            "resourceType": "STONE",
+            "quantity": 1
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "FAITH",
+            "quantity": 2
+          }
+        ],
+        "victoryPoints": 5,
+        "visibilityOnDeck": true
+      },
+      {
+        "id": 18,
+        "cost": [
+          {
+            "resourceType": "SHIELD",
+            "quantity": 3
+          },
+          {
+            "resourceType": "SERVANT",
+            "quantity": 2
+          }
+        ],
+        "color": "GREEN",
+        "level": "LEVEL_2",
+        "resourceIn": [
+          {
+            "resourceType": "SHIELD",
+            "quantity": 1
+          },
+          {
+            "resourceType": "SERVANT",
+            "quantity": 1
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "STONE",
+            "quantity": 3
+          }
+        ],
+        "victoryPoints": 6,
+        "visibilityOnDeck": true
+      },
+      {
+        "id": 19,
+        "cost": [
+          {
+            "resourceType": "SHIELD",
+            "quantity": 5
+          }
+        ],
+        "color": "GREEN",
+        "level": "LEVEL_2",
+        "resourceIn": [
+          {
+            "resourceType": "COIN",
+            "quantity": 2
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "STONE",
+            "quantity": 2
+          },
+          {
+            "resourceType": "FAITH",
+            "quantity": 2
+          }
+        ],
+        "victoryPoints": 7,
+        "visibilityOnDeck": true
+      },
+      {
+        "id": 20,
+        "cost": [
+          {
+            "resourceType": "SHIELD",
+            "quantity": 3
+          },
+          {
+            "resourceType": "COIN",
+            "quantity": 3
+          }
+        ],
+        "color": "GREEN",
+        "level": "LEVEL_2",
+        "resourceIn": [
+          {
+            "resourceType": "COIN",
+            "quantity": 1
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "SHIELD",
+            "quantity": 2
+          },
+          {
+            "resourceType": "FAITH",
+            "quantity": 1
+          }
+        ],
+        "victoryPoints": 8,
+        "visibilityOnDeck": true
+      }
+    ],
+    [
+      {
+        "id": 21,
+        "cost": [
+          {
+            "resourceType": "COIN",
+            "quantity": 4
+          }
+        ],
+        "color": "BLUE",
+        "level": "LEVEL_2",
+        "resourceIn": [
+          {
+            "resourceType": "SERVANT",
+            "quantity": 1
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "FAITH",
+            "quantity": 2
+          }
+        ],
+        "victoryPoints": 5,
+        "visibilityOnDeck": true
+      },
+      {
+        "id": 22,
+        "cost": [
+          {
+            "resourceType": "COIN",
+            "quantity": 3
+          },
+          {
+            "resourceType": "STONE",
+            "quantity": 2
+          }
+        ],
+        "color": "BLUE",
+        "level": "LEVEL_2",
+        "resourceIn": [
+          {
+            "resourceType": "COIN",
+            "quantity": 1
+          },
+          {
+            "resourceType": "STONE",
+            "quantity": 1
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "SERVANT",
+            "quantity": 3
+          }
+        ],
+        "victoryPoints": 6,
+        "visibilityOnDeck": true
+      },
+      {
+        "id": 23,
+        "cost": [
+          {
+            "resourceType": "COIN",
+            "quantity": 5
+          }
+        ],
+        "color": "BLUE",
+        "level": "LEVEL_2",
+        "resourceIn": [
+          {
+            "resourceType": "SERVANT",
+            "quantity": 2
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "SHIELD",
+            "quantity": 2
+          },
+          {
+            "resourceType": "FAITH",
+            "quantity": 2
+          }
+        ],
+        "victoryPoints": 7,
+        "visibilityOnDeck": true
+      },
+      {
+        "id": 24,
+        "cost": [
+          {
+            "resourceType": "COIN",
+            "quantity": 3
+          },
+          {
+            "resourceType": "STONE",
+            "quantity": 3
+          }
+        ],
+        "color": "BLUE",
+        "level": "LEVEL_2",
+        "resourceIn": [
+          {
+            "resourceType": "SERVANT",
+            "quantity": 1
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "STONE",
+            "quantity": 2
+          },
+          {
+            "resourceType": "FAITH",
+            "quantity": 1
+          }
+        ],
+        "victoryPoints": 8,
+        "visibilityOnDeck": true
+      }
+    ],
+    [
+      {
+        "id": 25,
+        "cost": [
+          {
+            "resourceType": "STONE",
+            "quantity": 4
+          }
+        ],
+        "color": "YELLOW",
+        "level": "LEVEL_2",
+        "resourceIn": [
+          {
+            "resourceType": "SHIELD",
+            "quantity": 1
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "FAITH",
+            "quantity": 2
+          }
+        ],
+        "victoryPoints": 5,
+        "visibilityOnDeck": true
+      },
+      {
+        "id": 26,
+        "cost": [
+          {
+            "resourceType": "STONE",
+            "quantity": 3
+          },
+          {
+            "resourceType": "SHIELD",
+            "quantity": 2
+          }
+        ],
+        "color": "YELLOW",
+        "level": "LEVEL_2",
+        "resourceIn": [
+          {
+            "resourceType": "STONE",
+            "quantity": 1
+          },
+          {
+            "resourceType": "SHIELD",
+            "quantity": 1
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "COIN",
+            "quantity": 3
+          }
+        ],
+        "victoryPoints": 6,
+        "visibilityOnDeck": true
+      },
+      {
+        "id": 27,
+        "cost": [
+          {
+            "resourceType": "STONE",
+            "quantity": 5
+          }
+        ],
+        "color": "YELLOW",
+        "level": "LEVEL_2",
+        "resourceIn": [
+          {
+            "resourceType": "SHIELD",
+            "quantity": 2
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "SERVANT",
+            "quantity": 2
+          },
+          {
+            "resourceType": "FAITH",
+            "quantity": 2
+          }
+        ],
+        "victoryPoints": 7,
+        "visibilityOnDeck": true
+      },
+      {
+        "id": 28,
+        "cost": [
+          {
+            "resourceType": "STONE",
+            "quantity": 3
+          },
+          {
+            "resourceType": "SERVANT",
+            "quantity": 3
+          }
+        ],
+        "color": "YELLOW",
+        "level": "LEVEL_2",
+        "resourceIn": [
+          {
+            "resourceType": "SHIELD",
+            "quantity": 1
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "COIN",
+            "quantity": 2
+          },
+          {
+            "resourceType": "FAITH",
+            "quantity": 1
+          }
+        ],
+        "victoryPoints": 8,
+        "visibilityOnDeck": true
+      }
+    ],
+    [
+      {
+        "id": 29,
+        "cost": [
+          {
+            "resourceType": "SERVANT",
+            "quantity": 4
+          }
+        ],
+        "color": "PURPLE",
+        "level": "LEVEL_2",
+        "resourceIn": [
+          {
+            "resourceType": "COIN",
+            "quantity": 1
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "FAITH",
+            "quantity": 2
+          }
+        ],
+        "victoryPoints": 5,
+        "visibilityOnDeck": true
+      },
+      {
+        "id": 30,
+        "cost": [
+          {
+            "resourceType": "SERVANT",
+            "quantity": 3
+          },
+          {
+            "resourceType": "COIN",
+            "quantity": 2
+          }
+        ],
+        "color": "PURPLE",
+        "level": "LEVEL_2",
+        "resourceIn": [
+          {
+            "resourceType": "COIN",
+            "quantity": 1
+          },
+          {
+            "resourceType": "SERVANT",
+            "quantity": 1
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "SHIELD",
+            "quantity": 3
+          }
+        ],
+        "victoryPoints": 6,
+        "visibilityOnDeck": true
+      },
+      {
+        "id": 31,
+        "cost": [
+          {
+            "resourceType": "SERVANT",
+            "quantity": 5
+          }
+        ],
+        "color": "PURPLE",
+        "level": "LEVEL_2",
+        "resourceIn": [
+          {
+            "resourceType": "STONE",
+            "quantity": 2
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "COIN",
+            "quantity": 2
+          },
+          {
+            "resourceType": "FAITH",
+            "quantity": 2
+          }
+        ],
+        "victoryPoints": 7,
+        "visibilityOnDeck": true
+      },
+      {
+        "id": 32,
+        "cost": [
+          {
+            "resourceType": "SERVANT",
+            "quantity": 3
+          },
+          {
+            "resourceType": "SHIELD",
+            "quantity": 3
+          }
+        ],
+        "color": "PURPLE",
+        "level": "LEVEL_2",
+        "resourceIn": [
+          {
+            "resourceType": "STONE",
+            "quantity": 1
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "SERVANT",
+            "quantity": 2
+          },
+          {
+            "resourceType": "FAITH",
+            "quantity": 1
+          }
+        ],
+        "victoryPoints": 8,
+        "visibilityOnDeck": true
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "id": 33,
+        "cost": [
+          {
+            "resourceType": "SHIELD",
+            "quantity": 6
+          }
+        ],
+        "color": "GREEN",
+        "level": "LEVEL_3",
+        "resourceIn": [
+          {
+            "resourceType": "SERVANT",
+            "quantity": 2
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "STONE",
+            "quantity": 3
+          },
+          {
+            "resourceType": "FAITH",
+            "quantity": 2
+          }
+        ],
+        "victoryPoints": 9,
+        "visibilityOnDeck": true
+      },
+      {
+        "id": 34,
+        "cost": [
+          {
+            "resourceType": "SHIELD",
+            "quantity": 5
+          },
+          {
+            "resourceType": "SERVANT",
+            "quantity": 2
+          }
+        ],
+        "color": "GREEN",
+        "level": "LEVEL_3",
+        "resourceIn": [
+          {
+            "resourceType": "COIN",
+            "quantity": 1
+          },
+          {
+            "resourceType": "SERVANT",
+            "quantity": 1
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "SHIELD",
+            "quantity": 2
+          },
+          {
+            "resourceType": "STONE",
+            "quantity": 2
+          },
+          {
+            "resourceType": "FAITH",
+            "quantity": 1
+          }
+        ],
+        "victoryPoints": 10,
+        "visibilityOnDeck": true
+      },
+      {
+        "id": 35,
+        "cost": [
+          {
+            "resourceType": "SHIELD",
+            "quantity": 7
+          }
+        ],
+        "color": "GREEN",
+        "level": "LEVEL_3",
+        "resourceIn": [
+          {
+            "resourceType": "SERVANT",
+            "quantity": 1
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "COIN",
+            "quantity": 1
+          },
+          {
+            "resourceType": "FAITH",
+            "quantity": 3
+          }
+        ],
+        "victoryPoints": 11,
+        "visibilityOnDeck": true
+      },
+      {
+        "id": 36,
+        "cost": [
+          {
+            "resourceType": "SHIELD",
+            "quantity": 4
+          },
+          {
+            "resourceType": "COIN",
+            "quantity": 4
+          }
+        ],
+        "color": "GREEN",
+        "level": "LEVEL_3",
+        "resourceIn": [
+          {
+            "resourceType": "STONE",
+            "quantity": 1
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "COIN",
+            "quantity": 3
+          },
+          {
+            "resourceType": "SHIELD",
+            "quantity": 1
+          }
+        ],
+        "victoryPoints": 12,
+        "visibilityOnDeck": true
+      }
+    ],
+    [
+      {
+        "id": 37,
+        "cost": [
+          {
+            "resourceType": "COIN",
+            "quantity": 6
+          }
+        ],
+        "color": "BLUE",
+        "level": "LEVEL_3",
+        "resourceIn": [
+          {
+            "resourceType": "SERVANT",
+            "quantity": 2
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "SHIELD",
+            "quantity": 3
+          },
+          {
+            "resourceType": "FAITH",
+            "quantity": 2
+          }
+        ],
+        "victoryPoints": 9,
+        "visibilityOnDeck": true
+      },
+      {
+        "id": 38,
+        "cost": [
+          {
+            "resourceType": "COIN",
+            "quantity": 5
+          },
+          {
+            "resourceType": "STONE",
+            "quantity": 2
+          }
+        ],
+        "color": "BLUE",
+        "level": "LEVEL_3",
+        "resourceIn": [
+          {
+            "resourceType": "COIN",
+            "quantity": 1
+          },
+          {
+            "resourceType": "SHIELD",
+            "quantity": 1
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "SERVANT",
+            "quantity": 2
+          },
+          {
+            "resourceType": "STONE",
+            "quantity": 2
+          },
+          {
+            "resourceType": "FAITH",
+            "quantity": 1
+          }
+        ],
+        "victoryPoints": 10,
+        "visibilityOnDeck": true
+      },
+      {
+        "id": 39,
+        "cost": [
+          {
+            "resourceType": "COIN",
+            "quantity": 7
+          }
+        ],
+        "color": "BLUE",
+        "level": "LEVEL_3",
+        "resourceIn": [
+          {
+            "resourceType": "STONE",
+            "quantity": 1
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "SHIELD",
+            "quantity": 1
+          },
+          {
+            "resourceType": "FAITH",
+            "quantity": 3
+          }
+        ],
+        "victoryPoints": 11,
+        "visibilityOnDeck": true
+      },
+      {
+        "id": 40,
+        "cost": [
+          {
+            "resourceType": "COIN",
+            "quantity": 4
+          },
+          {
+            "resourceType": "STONE",
+            "quantity": 4
+          }
+        ],
+        "color": "BLUE",
+        "level": "LEVEL_3",
+        "resourceIn": [
+          {
+            "resourceType": "SERVANT",
+            "quantity": 1
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "COIN",
+            "quantity": 1
+          },
+          {
+            "resourceType": "SHIELD",
+            "quantity": 3
+          }
+        ],
+        "victoryPoints": 12,
+        "visibilityOnDeck": true
+      }
+    ],
+    [
+      {
+        "id": 41,
+        "cost": [
+          {
+            "resourceType": "STONE",
+            "quantity": 6
+          }
+        ],
+        "color": "YELLOW",
+        "level": "LEVEL_3",
+        "resourceIn": [
+          {
+            "resourceType": "SHIELD",
+            "quantity": 2
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "SERVANT",
+            "quantity": 3
+          },
+          {
+            "resourceType": "FAITH",
+            "quantity": 2
+          }
+        ],
+        "victoryPoints": 9,
+        "visibilityOnDeck": true
+      },
+      {
+        "id": 42,
+        "cost": [
+          {
+            "resourceType": "STONE",
+            "quantity": 5
+          },
+          {
+            "resourceType": "SERVANT",
+            "quantity": 2
+          }
+        ],
+        "color": "YELLOW",
+        "level": "LEVEL_3",
+        "resourceIn": [
+          {
+            "resourceType": "STONE",
+            "quantity": 1
+          },
+          {
+            "resourceType": "SERVANT",
+            "quantity": 1
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "COIN",
+            "quantity": 2
+          },
+          {
+            "resourceType": "SHIELD",
+            "quantity": 2
+          },
+          {
+            "resourceType": "FAITH",
+            "quantity": 1
+          }
+        ],
+        "victoryPoints": 10,
+        "visibilityOnDeck": true
+      },
+      {
+        "id": 43,
+        "cost": [
+          {
+            "resourceType": "STONE",
+            "quantity": 7
+          }
+        ],
+        "color": "YELLOW",
+        "level": "LEVEL_3",
+        "resourceIn": [
+          {
+            "resourceType": "SHIELD",
+            "quantity": 1
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "SERVANT",
+            "quantity": 1
+          },
+          {
+            "resourceType": "FAITH",
+            "quantity": 3
+          }
+        ],
+        "victoryPoints": 11,
+        "visibilityOnDeck": true
+      },
+      {
+        "id": 44,
+        "cost": [
+          {
+            "resourceType": "STONE",
+            "quantity": 4
+          },
+          {
+            "resourceType": "SERVANT",
+            "quantity": 4
+          }
+        ],
+        "color": "YELLOW",
+        "level": "LEVEL_3",
+        "resourceIn": [
+          {
+            "resourceType": "SHIELD",
+            "quantity": 1
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "STONE",
+            "quantity": 1
+          },
+          {
+            "resourceType": "SERVANT",
+            "quantity": 3
+          }
+        ],
+        "victoryPoints": 12,
+        "visibilityOnDeck": true
+      }
+    ],
+    [
+      {
+        "id": 45,
+        "cost": [
+          {
+            "resourceType": "SERVANT",
+            "quantity": 6
+          }
+        ],
+        "color": "PURPLE",
+        "level": "LEVEL_3",
+        "resourceIn": [
+          {
+            "resourceType": "STONE",
+            "quantity": 2
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "COIN",
+            "quantity": 3
+          },
+          {
+            "resourceType": "FAITH",
+            "quantity": 2
+          }
+        ],
+        "victoryPoints": 9,
+        "visibilityOnDeck": true
+      },
+      {
+        "id": 46,
+        "cost": [
+          {
+            "resourceType": "SERVANT",
+            "quantity": 5
+          },
+          {
+            "resourceType": "COIN",
+            "quantity": 2
+          }
+        ],
+        "color": "PURPLE",
+        "level": "LEVEL_3",
+        "resourceIn": [
+          {
+            "resourceType": "STONE",
+            "quantity": 1
+          },
+          {
+            "resourceType": "SHIELD",
+            "quantity": 1
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "COIN",
+            "quantity": 2
+          },
+          {
+            "resourceType": "SERVANT",
+            "quantity": 2
+          },
+          {
+            "resourceType": "FAITH",
+            "quantity": 1
+          }
+        ],
+        "victoryPoints": 10,
+        "visibilityOnDeck": true
+      },
+      {
+        "id": 47,
+        "cost": [
+          {
+            "resourceType": "SERVANT",
+            "quantity": 7
+          }
+        ],
+        "color": "PURPLE",
+        "level": "LEVEL_3",
+        "resourceIn": [
+          {
+            "resourceType": "COIN",
+            "quantity": 1
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "STONE",
+            "quantity": 1
+          },
+          {
+            "resourceType": "FAITH",
+            "quantity": 3
+          }
+        ],
+        "victoryPoints": 11,
+        "visibilityOnDeck": true
+      },
+      {
+        "id": 48,
+        "cost": [
+          {
+            "resourceType": "SERVANT",
+            "quantity": 4
+          },
+          {
+            "resourceType": "SHIELD",
+            "quantity": 4
+          }
+        ],
+        "color": "PURPLE",
+        "level": "LEVEL_3",
+        "resourceIn": [
+          {
+            "resourceType": "COIN",
+            "quantity": 1
+          }
+        ],
+        "resourceOut": [
+          {
+            "resourceType": "STONE",
+            "quantity": 3
+          },
+          {
+            "resourceType": "SERVANT",
+            "quantity": 1
+          }
+        ],
+        "victoryPoints": 12,
+        "visibilityOnDeck": true
+      }
+    ]
+  ]
+]

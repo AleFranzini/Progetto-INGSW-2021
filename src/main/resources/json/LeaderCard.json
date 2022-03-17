@@ -1,0 +1,187 @@
+[
+  {
+    "type": "LeaderCardDiscountAbility",
+    "properties": {
+      "id": 0,
+      "victoryPoints": 2,
+      "activatedLeaderCard": false,
+      "requirements": [
+        "BLUE",
+        "PURPLE"
+      ],
+      "resourceId": "SHIELD"
+    }
+  },
+  {
+    "type": "LeaderCardDiscountAbility",
+    "properties": {
+      "id": 1,
+      "victoryPoints": 2,
+      "activatedLeaderCard": false,
+      "requirements": [
+        "YELLOW",
+        "PURPLE"
+      ],
+      "resourceId": "COIN"
+    }
+  },
+  {
+    "type": "LeaderCardDiscountAbility",
+    "properties": {
+      "id": 2,
+      "victoryPoints": 2,
+      "activatedLeaderCard": false,
+      "requirements": [
+        "GREEN",
+        "BLUE"
+      ],
+      "resourceId": "STONE"
+    }
+  },
+  {
+    "type": "LeaderCardDiscountAbility",
+    "properties": {
+      "id": 3,
+      "victoryPoints": 2,
+      "activatedLeaderCard": false,
+      "requirements": [
+        "YELLOW",
+        "GREEN"
+      ],
+      "resourceId": "SERVANT"
+    }
+  },
+  {
+    "type": "LeaderCardDepotAbility",
+    "properties": {
+      "id": 4,
+      "victoryPoints": 3,
+      "activatedLeaderCard": false,
+      "requirements": "SERVANT",
+      "leaderCardDepot": "SHIELD"
+    }
+  },
+  {
+    "type": "LeaderCardDepotAbility",
+    "properties": {
+      "id": 5,
+      "victoryPoints": 3,
+      "activatedLeaderCard": false,
+      "requirements": "COIN",
+      "leaderCardDepot": "STONE"
+    }
+  },
+  {
+    "type": "LeaderCardDepotAbility",
+    "properties": {
+      "id": 6,
+      "victoryPoints": 3,
+      "activatedLeaderCard": false,
+      "requirements": "STONE",
+      "leaderCardDepot": "SERVANT"
+    }
+  },
+  {
+    "type": "LeaderCardDepotAbility",
+    "properties": {
+      "id": 7,
+      "victoryPoints": 3,
+      "activatedLeaderCard": false,
+      "requirements": "SHIELD",
+      "leaderCardDepot": "COIN"
+    }
+  },
+  {
+    "type": "LeaderCardProductionAbility",
+    "properties": {
+      "id": 8,
+      "victoryPoints": 4,
+      "activatedLeaderCard": false,
+      "colorRequirements": "YELLOW",
+      "productionResource": "SHIELD"
+    }
+  },
+  {
+    "type": "LeaderCardProductionAbility",
+    "properties": {
+      "id": 9,
+      "victoryPoints": 4,
+      "activatedLeaderCard": false,
+      "colorRequirements": "PURPLE",
+      "productionResource": "STONE"
+    }
+  },
+  {
+    "type": "LeaderCardProductionAbility",
+    "properties": {
+      "id": 10,
+      "victoryPoints": 4,
+      "activatedLeaderCard": false,
+      "colorRequirements": "BLUE",
+      "productionResource": "SERVANT"
+    }
+  },
+  {
+    "type": "LeaderCardProductionAbility",
+    "properties": {
+      "id": 11,
+      "victoryPoints": 4,
+      "activatedLeaderCard": false,
+      "colorRequirements": "GREEN",
+      "productionResource": "COIN"
+    }
+  },
+  {
+    "type": "LeaderCardResourceAbility",
+    "properties": {
+      "id": 12,
+      "victoryPoints": 5,
+      "activatedLeaderCard": false,
+      "colorRequirements": [
+        "PURPLE",
+        "GREEN"
+      ],
+      "resourceId": "COIN"
+    }
+  },
+  {
+    "type": "LeaderCardResourceAbility",
+    "properties": {
+      "id": 13,
+      "victoryPoints": 5,
+      "activatedLeaderCard": false,
+      "colorRequirements": [
+        "YELLOW",
+        "BLUE"
+      ],
+      "resourceId": "SERVANT"
+    }
+  },
+  {
+
+    "type": "LeaderCardResourceAbility",
+    "properties": {
+      "id": 14,
+      "victoryPoints": 5,
+      "activatedLeaderCard": false,
+      "colorRequirements": [
+        "BLUE",
+        "YELLOW"
+      ],
+      "resourceId": "STONE"
+    }
+  },
+  {
+    "type": "LeaderCardResourceAbility",
+    "properties": {
+      "id": 15,
+      "victoryPoints": 5,
+      "activatedLeaderCard": false,
+      "colorRequirements": [
+        "GREEN",
+        "PURPLE"
+      ],
+      "resourceId": "SHIELD"
+    }
+  }
+]

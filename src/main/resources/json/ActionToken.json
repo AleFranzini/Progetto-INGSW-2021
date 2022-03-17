@@ -1,0 +1,44 @@
+[
+  {
+    "type": "DiscardToken",
+    "properties": {
+      "color": "BLUE"
+    }
+  },
+  {
+    "type": "DiscardToken",
+    "properties": {
+      "color": "GREEN"
+    }
+  },
+  {
+    "type": "DiscardToken",
+    "properties": {
+      "color": "PURPLE"
+    }
+  },
+  {
+    "type": "DiscardToken",
+    "properties": {
+      "color": "YELLOW"
+    }
+  },
+  {
+    "type": "BlackCrossToken",
+    "properties": {
+      "quantity": 1
+    }
+  },
+  {
+    "type": "BlackCrossToken",
+    "properties": {
+      "quantity": 2
+    }
+  },
+  {
+    "type": "BlackCrossToken",
+    "properties": {
+      "quantity": 2
+    }
+  }
+]

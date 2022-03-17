@@ -1,0 +1,54 @@
+[
+  {
+    "resourceType": "BLANK",
+    "quantity": 1
+  },
+  {
+    "resourceType": "BLANK",
+    "quantity": 1
+  },
+  {
+    "resourceType": "BLANK",
+    "quantity": 1
+  },
+  {
+    "resourceType": "BLANK",
+    "quantity": 1
+  },
+  {
+    "resourceType": "SHIELD",
+    "quantity": 1
+  },
+  {
+    "resourceType": "SHIELD",
+    "quantity": 1
+  },
+  {
+    "resourceType": "STONE",
+    "quantity": 1
+  },
+  {
+    "resourceType": "STONE",
+    "quantity": 1
+  },
+  {
+    "resourceType": "COIN",
+    "quantity": 1
+  },
+  {
+    "resourceType": "COIN",
+    "quantity": 1
+  },
+  {
+    "resourceType": "SERVANT",
+    "quantity": 1
+  },
+  {
+    "resourceType": "SERVANT",
+    "quantity": 1
+  },
+  {
+    "resourceType": "FAITH",
+    "quantity": 1
+  }
+]

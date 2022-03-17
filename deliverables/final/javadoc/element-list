@@ -1,0 +1,16 @@
+it.polimi.ingsw
+it.polimi.ingsw.controller
+it.polimi.ingsw.exceptions
+it.polimi.ingsw.messages
+it.polimi.ingsw.model
+it.polimi.ingsw.model.commons
+it.polimi.ingsw.model.game
+it.polimi.ingsw.model.game.deck.actionToken
+it.polimi.ingsw.model.game.deck.developmentCard
+it.polimi.ingsw.model.game.deck.leaderCard
+it.polimi.ingsw.model.player
+it.polimi.ingsw.network.client
+it.polimi.ingsw.network.server
+it.polimi.ingsw.view
+it.polimi.ingsw.view.cli
+it.polimi.ingsw.view.gui
